@@ -52,7 +52,7 @@ export const EXPERIENCES = [
     technologies: ["Advanced C", "Azure IoT Hub", "GitHub", "Jira", "Visual Studio"],
   },
   {
-    year: "2021 - 2022",
+    year: "2023 - 2024",
     role: "Application Developer",
     company: "AAMRK Software Pvt Ltd",
     description: [
